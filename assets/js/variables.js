@@ -40,3 +40,11 @@ const nuevaFunccion = () => {
 }
 
 nuevaFunccion();
+
+const nombre = "Uriel German";
+const apellidos = "Camacho Ayala";
+
+console.log(`Hola mi nombre es ${nombre} mis apellidos son ${apellidos}`);
+
+const arr = [1,2,3,4,5,6];
+console.log(arr)
